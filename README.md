@@ -3,9 +3,9 @@ An good Visa Card generator
 
 # Open Tuto
 
-open an cmd in this folder and type : 
+open an `cmd` in this folder and type : 
 
-Python main.py
+`Python main.py`
 
 and Enjoy :*)
 
