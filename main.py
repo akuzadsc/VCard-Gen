@@ -5,7 +5,7 @@ import random, time
 print(""" ░▒█░░▒█░░░▒█▀▀▄░█▀▀▄░█▀▀▄░█▀▄░░░▒█▀▀█░▒█▀▀▀░▒█▄░▒█
 ░░▒█▒█░░░░▒█░░░░█▄▄█░█▄▄▀░█░█░░░▒█░▄▄░▒█▀▀▀░▒█▒█▒█
 ░░░▀▄▀░░░░▒█▄▄▀░▀░░▀░▀░▀▀░▀▀░░░░▒█▄▄▀░▒█▄▄▄░▒█░░▀█
- By Neverrr""")
+ By Akuza""")
 
 
 print("/ This generator only generates Visa credit cards. \ ")
